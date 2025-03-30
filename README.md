@@ -12,14 +12,20 @@ SonyDev-Bypass is a powerful tool designed to bypass certain restrictions in gam
 ## 🎮 Supported Games
 SonyDev-Bypass is compatible with a wide range of popular titles, including:
 
-- **Red Dead Redemption 1**
-- **Grand Theft Auto IV & V**
-- **Driver: San Francisco**
-- **Mad Max**
-- **Far Cry 3**
-- **Prince of Persia: The Forgotten Sands**
-- **Deadpool**
 - **Assassin's Creed Series (III, IV: Black Flag, Unity, Rogue, etc.)**
+- **Call of Duty: Black Ops 2**
+- **Call of Duty: Modern Warfare 2**
+- **Deadpool**
+- **Driver: San Francisco**
+- **Far Cry Series (3, 4, Primal)**
+- **Grand Theft Auto IV & V (Enhanced)**
+- **God of War: Ragnarok**
+- **Mad Max**
+- **Max Payne 3**
+- **Need for Speed: Most Wanted (2012)**
+- **Prince of Persia: The Forgotten Sands**
+- **Red Dead Redemption 1 & 2**
+- **Riders Republic**
 - ...and many more!
 
 ## 🔄 Automatic Updates
@@ -29,6 +35,6 @@ The software constantly checks for new versions and ensures you're always up to 
 
 ## ⚠️ Important Notes
 - **Disable Antivirus Before Running** – Some files may be flagged as false positives.
-- **Large Game Files** – Some required files exceed 100MB and may take time to download.
+- **Large Game Files** – Files larger than **100MB** must be downloaded separately via **Google Drive**.
 
 For questions or suggestions, feel free to create an issue on [GitHub](https://github.com/SonyCapone/SonyDev-Bypass/issues). Stay ahead of the game with SonyDev-Bypass! 🎮🔥
