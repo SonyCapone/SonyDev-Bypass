@@ -38,3 +38,5 @@ The software constantly checks for new versions and ensures you're always up to 
 - **Large Game Files** – Files larger than **100MB** must be downloaded separately via **Google Drive**.
 
 For questions or suggestions, feel free to create an issue on [GitHub](https://github.com/SonyCapone/SonyDev-Bypass/issues). Stay ahead of the game with SonyDev-Bypass! 🎮🔥
+
+![9e1f39e5-7888-4b4a-926b-d0220a6127da](https://github.com/user-attachments/assets/f48bf5e6-f007-46bb-b2ca-9b54022e9376)
